@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - CustomLayer1
-  - CustomLayer2
-  - CustomLayer3
+  - wall
+  - decor
+  - Walkable
   - CustomLayer4
   - CustomLayer5
   - CustomLayer6
